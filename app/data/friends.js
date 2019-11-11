@@ -11,7 +11,7 @@ var friends = [
 	},
 	{
 		name: "Melisandre",
-		photo: "https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/melisandre-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg",
+		photo: "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Melisandre-Carice_van_Houten.jpg/220px-Melisandre-Carice_van_Houten.jpg",
 		scores: [2, 1, 1, 2, 5, 3, 2, 1, 4, 3]
 	},
 	{
@@ -21,7 +21,7 @@ var friends = [
 	},
 	{
 		name: "Brienne",
-		photo: "https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/brienne-of-tarth-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg",
+		photo: "https://i.pinimg.com/originals/7d/0f/33/7d0f3389eb76597a8a5a3a7fc25228a4.jpg",
 		scores: [1, 3, 5, 4, 2, 4, 2, 1, 5, 4]
 	}
 ];
