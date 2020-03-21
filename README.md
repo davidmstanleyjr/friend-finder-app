@@ -17,8 +17,8 @@ I hope you have fun.
 
 # Screenshots
 
-![Screenshot 1](app/public/images/snip1.png)
-![Screenshot 2](app/public/images/snip2.png)
-![Screenshot 3](app/public/images/snip3.png)
+![Screenshot 1](app/public/images/snip1.PNG)
+![Screenshot 2](app/public/images/snip2.PNG)
+![Screenshot 3](app/public/images/snip3.PNG)
 
 
