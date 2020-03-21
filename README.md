@@ -14,3 +14,11 @@ and take the survey. Enter your name and take it from there.
 # Issues
 >The main issue was working within so many files. They all had to interact with each other and it was complicated at first but I figured it out. Also, some of the photo links made the photos look huge so I had to find different photos.
 I hope you have fun.
+
+# Screenshots
+
+![Screenshot 1](app/public/images/snip1.png)
+![Screenshot 2](app/public/images/snip2.png)
+![Screenshot 3](app/public/images/snip3.png)
+
+
